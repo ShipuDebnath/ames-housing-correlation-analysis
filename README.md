@@ -12,9 +12,9 @@ This project analyzes the Ames Housing Dataset to explore correlations between s
 - Source: Ames Housing Dataset (`make_ames()` from `AmesHousing` package)
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/ames-housing-correlation-analysis.git`
+1. Clone the repository: `git clone https://github.com/ShipuDebnath/ames-housing-correlation-analysis.git`
 2. Open R and set the working directory to the repo folder.
-3. Run the script: `source("scripts/ames_correlation.R")`
+3. Run the script: `source("scripts/ames-housing-correlation-analysis.R")`
 4. Outputs:
    - Correlation plots in `plots/` (e.g., `correlation_matrix.png`, `sale_price_vs_living_area.png`)
    - Individual correlation visualizations (e.g., `correlation_0.5.png`)
